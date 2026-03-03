@@ -1,6 +1,6 @@
 # KeyReaper
 
-**GCP API Key Scanner** — Extract and assess exposed Google Cloud (AIza) API keys from web pages. Built for bug bounty hunters and security researchers.
+**GCP API Key Scanner** — Extract and access exposed Google Cloud (AIza) API keys from web pages. Built for bug bounty hunters and security researchers.
 
 Keys embedded in client-side code can be scraped by anyone and used for quota theft, unauthorized API access, and billing abuse. KeyReaper finds them and reports which APIs each key can access.
 
